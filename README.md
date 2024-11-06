@@ -20,10 +20,11 @@
   </a>
 </div>
 
+<div align="center">
 [![License](https://img.shields.io/github/license/buddingworld/lux.svg)](LICENSE)
 [![Latest Release](https://img.shields.io/github/release/buddingworld/lux.svg)](../../releases)
 [![All Releases Download](https://img.shields.io/github/downloads/buddingworld/lux/total.svg)](../../releases)
-
+</div>
 👾 Lux is a fast and simple video downloader built with Go.
 
 - [Installation](#installation)
