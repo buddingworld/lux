@@ -21,9 +21,9 @@
 </div>
 
 <div align="center">
-    License：<img src="https://img.shields.io/github/license/buddingworld/lux.svg" alt="Codecov">
-    Latest Release： <img src="https://img.shields.io/github/release/buddingworld/lux.svg" alt="Go Report Card">
-    All Releases Download： <img src="https://img.shields.io/github/downloads/buddingworld/lux/total.svg" alt="Homebrew">
+    <img src="https://img.shields.io/github/license/buddingworld/lux.svg" alt="Codecov">
+    <img src="https://img.shields.io/github/release/buddingworld/lux.svg" alt="Go Report Card">
+    <img src="https://img.shields.io/github/downloads/buddingworld/lux/total.svg" alt="Homebrew">
 </div>
 
 👾 Lux is a fast and simple video downloader built with Go.
